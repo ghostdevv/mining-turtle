@@ -13,6 +13,7 @@ if not width or not height or not depth then
 end
 
 turtle.refuel()
+print("Fuel Level: " .. turtle.getFuelLevel())
 
 local up = true
 
