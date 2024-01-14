@@ -1,5 +1,5 @@
 if #arg < 3 then
-    print("Usage: turtle_program <width> <height> <depth>")
+    print("Usage: mine <width> <height> <depth>")
     return
 end
 
