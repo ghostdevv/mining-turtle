@@ -10,7 +10,7 @@ wget https://raw.githubusercontent.com/ghostdevv/mining-turtle/main/mine.lua
 
 ## Usage
 
-The turtle must be placed in the bottom right corner facing the direction you want to mine. It'll also automatically refuel on startup.
+The turtle must be placed in the bottom left corner facing the direction you want to mine. It'll also automatically refuel on startup.
 
 ```bash
 mine <width> <height> <depth>
